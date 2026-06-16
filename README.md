@@ -1,3 +1,7 @@
+REAL TIME AI Session Integrated with OpenAI
+
+
+
 Overview :
 
 This project implements a real-time, session-based AI interaction backend using FastAPI WebSockets.
